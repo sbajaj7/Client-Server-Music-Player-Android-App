@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Sahib\\AndroidStudioProjects\\AudioServer1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\clip3.mp3",
+        "source": "C:\\Users\\Sahib\\AndroidStudioProjects\\AudioServer1\\app\\src\\main\\res\\raw\\clip3.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Sahib\\AndroidStudioProjects\\AudioServer1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\clip1.mp3",
+        "source": "C:\\Users\\Sahib\\AndroidStudioProjects\\AudioServer1\\app\\src\\main\\res\\raw\\clip1.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Sahib\\AndroidStudioProjects\\AudioServer1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\clip4.mp3",
+        "source": "C:\\Users\\Sahib\\AndroidStudioProjects\\AudioServer1\\app\\src\\main\\res\\raw\\clip4.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Sahib\\AndroidStudioProjects\\AudioServer1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\clip2.mp3",
+        "source": "C:\\Users\\Sahib\\AndroidStudioProjects\\AudioServer1\\app\\src\\main\\res\\raw\\clip2.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Sahib\\AndroidStudioProjects\\AudioServer1\\app\\build\\intermediates\\res\\merged\\debug\\raw\\clip5.mp3",
+        "source": "C:\\Users\\Sahib\\AndroidStudioProjects\\AudioServer1\\app\\src\\main\\res\\raw\\clip5.mp3"
+    }
+]

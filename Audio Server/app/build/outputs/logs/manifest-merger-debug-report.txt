@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:2:1-29:12
+	xmlns:android
+		ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml
+permission#course.examples.Services.KeyService.GEN_ID
+ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:11:5-12:18
+	android:name
+		ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:11:17-74
+application
+ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:14:5-27:19
+	android:allowBackup
+		ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:15:9-36
+	android:icon
+		ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:16:9-45
+service#course.examples.Services.KeyService.KeyGeneratorImpl
+ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:18:9-26:19
+	android:label
+		ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:19:13-45
+	android:exported
+		ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:21:13-36
+	android:permission
+		ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:22:13-76
+	android:name
+		ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:20:13-45
+intent-filter#course.examples.Services.KeyCommon.KeyGenerator
+ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:23:13-25:29
+action#course.examples.Services.KeyCommon.KeyGenerator
+ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:24:17-90
+	android:name
+		ADDED from C:\Users\Sahib\AndroidStudioProjects\AudioServer1\app\src\main\AndroidManifest.xml:24:25-87
