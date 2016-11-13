@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.sahib.app.playerclient.MainActivity"
+    tools:showIn="@layout/activity_main"
+    android:orientation="vertical">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="355dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:layout_weight="1.37"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/clip1"
+            android:text="Clip 1"
+            android:textSize="30sp"
+            android:layout_weight="0.20"
+            android:paddingTop="10dp"
+            android:paddingLeft="10dp"
+            android:background="#000000"
+            android:textColor="#ffffff" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/clip2"
+            android:text="Clip 2"
+            android:textSize="30dp"
+            android:paddingTop="20dp"
+            android:layout_weight="0.20"
+            android:paddingLeft="10dp"
+            android:background="#000000"
+            android:textColor="#ffffff"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/clip3"
+            android:text="Clip 3"
+            android:textSize="30dp"
+            android:paddingTop="20dp"
+            android:layout_weight="0.20"
+            android:paddingLeft="10dp"
+            android:background="#000000"
+            android:textColor="#ffffff"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/clip4"
+            android:text="Clip 4"
+            android:textSize="30dp"
+            android:paddingTop="20dp"
+            android:layout_weight="0.20"
+            android:paddingLeft="10dp"
+            android:background="#000000"
+            android:textColor="#ffffff"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/clip5"
+            android:text="Clip 5"
+            android:textSize="30dp"
+            android:paddingTop="20dp"
+            android:layout_weight="0.20"
+            android:paddingLeft="10dp"
+            android:background="#000000"
+            android:textColor="#ffffff"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="65dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/play"
+            android:text="Play"/>
+
+        <Button
+            android:layout_width="85dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/pause"
+            android:text="Pause"/>
+
+        <EditText
+            android:layout_width="50dp"
+            android:digits="12345"
+            android:maxLength="1"
+            android:singleLine="true"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText"/>
+
+        <Button
+            android:layout_width="90dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/resume"
+            android:text="Resume"/>
+
+        <Button
+            android:layout_width="65dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/stop"
+            android:text="Stop"/>
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="0.31">
+
+        <Button
+            android:layout_width="355dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/records"
+            android:text="Records"
+            android:layout_gravity="center_vertical" />
+
+    </LinearLayout>
+
+</LinearLayout>
